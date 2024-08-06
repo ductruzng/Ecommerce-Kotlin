@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729816851637",
+    "project_id": "e-commerce-kotlin-b0761",
+    "storage_bucket": "e-commerce-kotlin-b0761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729816851637:android:b4f339ec66f196ca2f0afc",
+        "android_client_info": {
+          "package_name": "trungndph39729.fpoly.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPN9UA4NWpcJFy44vABzGWSEkkGumqb7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
